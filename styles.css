@@ -1,0 +1,13 @@
+body{
+    min-height: 100vh;
+    background-color: crimson;
+    color: #fff9;
+    font-family: sans-serif;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: 100vh;
+}
