@@ -11,3 +11,6 @@ main{
     justify-content: center;
     align-items: 100vh;
 }
+a:is(:link, :visited) {
+    color: #665353;
+}
